@@ -6,7 +6,7 @@ Hello! I'm a 4th-year student at the University of Georgia (UGA) studying Manage
 <h3>NBMBAA Job Posting Web Scrape, Text Analysis, and Visualization (Late Sep. 2019)</h3>
 <p>The <a href="https://nbmbaa.org/conference/" target="_blank">National Black MBA Association (NBMBAA) Conference</a> is an annual career fair where top-tier companies attend to recruit a diverse group of students from universities all around the country.</p>
 
-<p>A group of UGA MBA students attend each year, and this project is designed to help these students get a convenient view of all the job postings on the website as well as analyze the text on the postings to get insight on the verbage being used by companies in their job descriptions. The goal here is so that students can tailor their resumes based on these keywords to match job descriptions and bypass a potential <a href="https://www.topresume.com/career-advice/what-is-an-ats-resume" target="_blank">ATS screening</a>.
+<p>A group of UGA MBA students attend each year, and this project is designed to help these students get a convenient view of all the <a href="https://careersuccess.nbmbaa.org/jobs/?keywords=&event_id=4070&sort=" target="_blank">job postings</a> on the website as well as analyze the text on the postings to get insight on the verbage being used by companies in their job descriptions. The goal here is so that students can tailor their resumes based on these keywords to match job descriptions and bypass a potential <a href="https://www.topresume.com/career-advice/what-is-an-ats-resume" target="_blank">ATS screening</a>.
 </p>
 
 <p>Additional documentation for more details on the project and my methodology is included in the project folder.</p>
