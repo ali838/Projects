@@ -3,7 +3,7 @@
 Hello! I'm a 4th-year student at the University of Georgia (UGA) studying Management Information Systems and Data Science. I'm excited to apply my classroom learnings into tangible projects, whether it be in a corporate work setting or taking on new side projects, where I will be converting raw data into actionable decisions and insights. The number of projects on my profile will grow as I continue to practice and learn more about the field of Data Science.
 
 <h2>Project Descriptions</h2>
-<h3>NBMBAA Job Posting Web Scrape, Text Analysis, and Visualization (Late Sep. 2019)</h3>
+<h3>NBMBAA Job Postings Web Scrape, Text Analysis, and Visualization (Late Sep. 2019)</h3>
 <p>The <a href="https://nbmbaa.org/conference/" target="_blank">National Black MBA Association (NBMBAA) Conference</a> is an annual career fair where top-tier companies attend to recruit a diverse group of students from universities all around the country.</p>
 
 <p>A group of UGA MBA students attend each year, and this project is designed to help these students get a convenient view of all the <a href="https://careersuccess.nbmbaa.org/jobs/?keywords=&event_id=4070&sort=" target="_blank">job postings</a> on the website as well as analyze the text on the postings to get insight on the verbage being used by companies in their job descriptions. The goal here is so that students can tailor their resumes based on these keywords to match job descriptions and bypass a potential <a href="https://www.topresume.com/career-advice/what-is-an-ats-resume" target="_blank">ATS screening</a>.
