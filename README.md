@@ -3,6 +3,16 @@
 Hello! I'm a 4th-year student at the University of Georgia (UGA) studying Management Information Systems and Data Science. I'm excited to apply my classroom learnings into tangible projects, whether it be in a corporate work setting or taking on new side projects, where I will be converting raw data into actionable decisions and insights. The number of projects on my profile will grow as I continue to practice and learn more about the field of Data Science.
 
 <h2>Project Descriptions</h2>
+
+<h3>Slickdeals Sentiment Analysis (Late Nov. 2019)<h3>
+<p>
+  Who doesn’t like a good deal? I certainly do, so I’ve decided to build and implement a model that deciphers whether a product is worth buying on <a href="slickdeals.net">slickdeals.net</a>. For those not familiar, Slickdeals(hereby referred to as “SD”) is a website that serves as a platform for people to share products that they find on the internet that are priced well below their manufacturer suggested retail price (MSRP). These items can be made up of many types of product categories, including groceries, video games, electronics, clothing, home appliances, and much more.
+</p>
+
+<p>
+  For each of the products, there is a very active, well-informed community that posts their opinions about the products and talks about whether the product is worth buying. The goal of this project is to apply sentiment analysis to create an effective machine learning model and generate understanding about an effective way to combine English lexicon and data science to generate a modern day solution for online shopping.
+</p>
+  
 <h3>NBMBAA Job Postings Web Scrape, Text Analysis, and Visualization (Late Sep. 2019)</h3>
 <p>The <a href="https://nbmbaa.org/conference/" target="_blank">National Black MBA Association (NBMBAA) Conference</a> is an annual career fair where top-tier companies attend to recruit a diverse group of students from universities all around the country.</p>
 
