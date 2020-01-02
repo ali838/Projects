@@ -4,7 +4,7 @@ Hello! I'm a 4th-year student at the University of Georgia (UGA) studying Manage
 
 <h2>Project Descriptions</h2>
 
-<h3>Slickdeals Sentiment Analysis (Late Nov. 2019)<h3>
+<h3>Slickdeals Sentiment Analysis (Late Nov. 2019)</h3>
 <p>
   Who doesn’t like a good deal? I certainly do, so I’ve decided to build and implement a model that deciphers whether a product is worth buying on <a href="http://slickdeals.net" target="_blank">slickdeals.net</a>. For those not familiar, Slickdeals is a website that serves as a platform for people to share products that they find on the internet that are priced well below their manufacturer suggested retail price (MSRP). These items can be made up of many types of product categories, including groceries, video games, electronics, clothing, home appliances, and much more.
 </p>
