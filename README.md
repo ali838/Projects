@@ -1,6 +1,6 @@
 # Projects
 
-Hello! I'm a 4th-year student at the University of Georgia (UGA) studying Management Information Systems and Data Science. I'm excited to apply my classroom learnings into tangible projects, whether it be in a corporate work setting or taking on new projects, where I will be converting raw data into actionable decisions and insights. The number of projects on my profile will grow as I continue to practice and learn more about the field of Data Science.
+Hello! I'm a new graduate from the University of Georgia (UGA), where I majored in Management Information Systems and Finance and attained a Certificate in Applied Data Science. I'm excited to apply my classroom learnings into tangible projects, whether it be in a corporate work setting or taking on new projects, where I will be converting raw data into actionable decisions and insights. The number of projects on my profile will grow as I continue to practice and learn more about the field of Data Science.
 
 <h2>Project Descriptions</h2>
 
