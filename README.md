@@ -4,6 +4,24 @@ Hello! I'm a new graduate from the University of Georgia (UGA), where I majored 
 
 <h2>Project Descriptions</h2>
 
+<h3>Feature Selection Algorithm (April 2020)</h3>
+<p>
+   In this project, I created a forward selection algorithm that can be generalized to many different datasets. The goal is to evaluate different machine learning models using the wrapper (greedy) method of variable selection. This shows which subset of features performs best in a given dataset.
+</p>
+
+<p>
+  The high-level logic of the code is as follows:
+</p>
+<ol>
+  <li>Clean the dataset if needed.</li>
+  <li>Evaluate each predictor variable individually against the response variable using some quality of fit measure (in my code, it's R&sup2; cross-validated).</li>
+  <li>Store the best performing individual variable in a list (best subset of variables) and add on new variables to try to improve the quality of fit. The variable that improves the model the most will be added onto the best subset of features list. This process gets repeated until all of the variables are in the model.</li>
+  <li>After the forward selection process is over, the N* (optimal number of variables) is calculated by finding the subset of variables that achieved the highest cross-validated R&sup2; value.</li>
+</ol>
+
+<p>I wrote the program using a 3L Neural Network and the AutoMPG dataset found off of the UCI ML Repository.</p>
+  
+  
 <h3>Slickdeals Sentiment Analysis (Late Nov. 2019)</h3>
 <p>
   Who doesn’t like a good deal? I certainly do, so I’ve decided to build and implement a natural language model that deciphers whether a product is worth buying on <a href="http://slickdeals.net" target="_blank">slickdeals.net</a>. For those not familiar, Slickdeals is a website that serves as a platform for people to share products that they find on the internet that are priced well below their manufacturer suggested retail price (MSRP). These items can be made up of many types of product categories, including groceries, video games, electronics, clothing, home appliances, and much more.
