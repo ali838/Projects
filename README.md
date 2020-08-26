@@ -6,7 +6,7 @@ Hello! I'm a new graduate from the University of Georgia (UGA), where I majored 
 
 <h3>AdaBoost Classifier Implementation (August 2020)</h3>
 <p>
-   Using <a href="https://github.com/random-forests/tutorials/blob/master/decision_tree.ipynb" target="_blank">Google Developers' Decision Tree </a> code as my foundation for building stumps (1 level Decision Trees), I created an AdaBoost Classifier from scratch using basic Python functions. I added onto the code with many helper functions, a Stump class to keep track of each stump and its split criterion, and an AdaBoost class that is used to fit and predict new instances.
+   Using <a href="https://github.com/random-forests/tutorials/blob/master/decision_tree.ipynb" target="_blank">Google Developers' Decision Tree</a> code as my foundation for building stumps (1 level Decision Trees), I created an AdaBoost Classifier from scratch using basic Python functions. I added onto the code with many helper functions, a Stump class to keep track of each stump and its split criterion, and an AdaBoost class that is used to fit and predict new instances.
 </p>
 
 <p>At the bottom of the Jupyter Notebook, I tested the classifer using a rare dataset from Kaggle – Titanic: Machine Learning from Disaster. In the Jupyter Notebook, I achieved 76% accuracy when predicting new instances of the Titanic dataset. However, when replicating, the accuracy won't always be the same, since AdaBoost creates new datasets, emphasizing rows with incorrect classifications from the previous dataset, with (presumably) different records to create new stumps. This results in different criterion splits, and in turn, different results/predictions.
