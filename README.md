@@ -4,6 +4,19 @@ Hello! I'm a new graduate from the University of Georgia (UGA), where I majored 
 
 <h2>Project Descriptions</h2>
 
+<h3>AR(p) AdaBoost Classifier Implementation (August 2020)</h3>
+<p>
+   Using <a href="https://github.com/random-forests/tutorials/blob/master/decision_tree.ipynb" target="_blank">Google Developers' Decision Tree </a> code as my foundation for building stumps (1 level Decision Trees), I created an AdaBoost Classifier from scratch using basic Python functions. I added onto the code with many helper functions, a Stump class to keep track of each stump and its split criterion, and an AdaBoost class that is used to fit and predict new instances.
+</p>
+
+<p>At the bottom of the Jupyter Notebook, I tested the classifer using a rare dataset from Kaggle – Titanic: Machine Learning from Disaster. In the Jupyter Notebook, I achieved 76% accuracy when predicting new instances of the Titanic dataset. However, when replicating, the accuracy won't always be the same, since AdaBoost creates new datasets, emphasizing rows with incorrect classifications from the previous dataset, with (presumably) different records to create new stumps. This results in different criterion splits, and in turn, different results/predictions.
+</p>
+
+<h3>AR(p) Time Series Implementation (June 2020)</h3>
+<p>
+   In efforts to solidify my learnings of different ML topics, I enjoy implementing new topics that I learn using simple Python functions. In this project, I created a basic Time Series model using Apple stock prices in order to predict the next value(s). I used the Durbin-Levinson algorithm to create a psi matrix, which is used to make predictions.
+</p>
+
 <h3>Feature Selection Algorithm (April 2020)</h3>
 <p>
    In this project, I created a forward selection algorithm that can be generalized to many different datasets. The goal is to evaluate different machine learning models using the wrapper (greedy) method of variable selection. This shows which subset of features performs best in a given dataset.
