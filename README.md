@@ -1,6 +1,6 @@
 # Projects
 
-Hello! My name is Andrew, and I currently work as a Data Scientist at JPMorgan Chase. I graduated from the University of Georgia (UGA) in May 2020 with degrees in Management Information Systems and Finance as well as a Certificate in Applied Data Science. 
+Hello! My name is Andrew, and I currently work as a Data Scientist at JPMorgan Chase. I graduated from the University of Georgia in May 2020 with degrees in Management Information Systems and Finance as well as a Certificate in Applied Data Science. 
 
 <h2>Project Descriptions</h2>
 
